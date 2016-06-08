@@ -1,13 +1,24 @@
 .navbar {
-  /*background-color: pink;*/
-  #gradient > .vertical(#333; #000);
+  /*background-color: #4C7E7F;*/
+  background-color: transparent;
+  border-color: transparent;
 }
 
-.body {
-  background-color: #FF0000;
+body {
+  /*background-color: #DCDCE0;*/
+  background-color: #E5E4E5;
+  font-family: 'Lato';
 }
 
 .profile-pic {
-  max-width: 300px;
-  max-height: 300px;
+  max-width: 350px;
+  max-height: 350px;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+}
+
+/*h1 {
+  font-weight: 100;
+}*/
